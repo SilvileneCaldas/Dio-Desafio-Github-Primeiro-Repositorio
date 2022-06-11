@@ -1,0 +1,13 @@
+Comandos Git
+
+git init: cria um novo projeto no repositório local
+
+git clone: faz uma cópia do repositório que foi clonado
+
+git status: verifica o status do arquivo
+
+git add * : adiciona todos os arquivos novos e/ou modificados ao repositório
+
+git comit -m "":executa o commit dos arquivos que foram adicionados e cria uma nova revisão com um log
+
+
